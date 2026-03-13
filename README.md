@@ -186,9 +186,3 @@ It is **not officially affiliated with the Pan-Armenian Digital Library (ARAR)**
 ## Author
 
 **Open Data Armenia**
-
----
-
-## Suggested GitHub Description
-
-Scraper and dataset for the ARAR collection “Publications of the Institute of Literature after M. Abeghyan of NAS RA”, part of the Open Data Armenia project documenting Armenian heritage worldwide.
